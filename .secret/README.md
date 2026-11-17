@@ -1,0 +1,1 @@
+THIS FILE IS FOR CREATING THE WORLD/SERVER, do not read the contents

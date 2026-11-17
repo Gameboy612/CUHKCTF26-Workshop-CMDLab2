@@ -1,0 +1,1 @@
+function cmdlib:vuln with entity @s SelectedItem.components.minecraft:custom_data
